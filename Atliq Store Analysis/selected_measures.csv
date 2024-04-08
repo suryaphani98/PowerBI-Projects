@@ -1,0 +1,5 @@
+﻿Measures,Order,format
+IR%,1,0.00%
+ISU%,2,0.00%
+IR,3,"#,##"
+ISU,4,"#,##0"
